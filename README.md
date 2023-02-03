@@ -5,7 +5,7 @@
 Project made for operating systems course. This is a limited version of Linux shell. It implements shell builtins such as cd, pwd, etc.
 
 ### Technologies
-Project is created with:
+The project was created with:
 - C 17
 
 ### Setup
